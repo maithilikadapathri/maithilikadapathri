@@ -1,7 +1,9 @@
-👋 Hi,I'm maithili kadapathri..
+**Hi,I'm maithili kadapathri..**
 - 👀 I'm a data enthusiast..
 - 🌱 I’m have completed my data analytics training...
-- 📫 linkedin-www.linkedin.com/in/maithili-kadapathri-b999b1342
+- 📫 How to find me :
+      linkedin-www.linkedin.com/in/maithili-kadapathri-b999b1342
+      mail-maithilikadapathri@gmail.com
 
 <!---
 maithilikadapathri/maithilikadapathri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
